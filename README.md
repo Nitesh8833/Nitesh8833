@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nitesh8833
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nitesh
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on ML Projects
+- 📫 How to reach me niteshkumar8833@gmail.com
 
 <!---
 Nitesh8833/Nitesh8833 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
