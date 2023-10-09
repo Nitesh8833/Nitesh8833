@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitesh
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning ML on GCP
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me niteshkumar8833@gmail.com
 
